@@ -16,7 +16,7 @@ class Device:
     A class of the android device controller that provides interface such as screenshots and clicking.
     """
 
-    def __init__(self, timeout: int = 30, adb_path: str = 'D:\\Program Files\\\leidian\\adb.exe'):
+    def __init__(self, timeout: int = 30, adb_path: str = 'adb'):
         """
 
         :param timeout: the timeout of executing commands.
