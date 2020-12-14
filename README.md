@@ -1,2 +1,2 @@
 # fgo-bot
-Please frefer to the original project by @will7101
+Please refer to the original project by @will7101
